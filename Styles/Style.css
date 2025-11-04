@@ -72,3 +72,23 @@ body {
     border-radius: 5px;
 
 }
+
+ul {
+    list-style: none;
+}
+
+.back-orange{
+    background-color: orange;
+}
+
+.back-violet{
+    background-color: violet;
+}
+
+.back-green{
+    background-color: green;
+}
+
+ul li{
+    margin-bottom: 15px;
+}
