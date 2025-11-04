@@ -92,3 +92,15 @@ ul {
 ul li{
     margin-bottom: 15px;
 }
+
+.back-pink {
+    background-color: pink;
+}
+
+.back-lightgreen {
+    background-color: lightgreen;
+}
+
+.heigh-section {
+    height: 100%;
+}
